@@ -11,7 +11,7 @@ A little corner of the internet for Kyle: Human-Slime VTuber, multimedia creator
 
 ## About the website
 
-This website brings together my creative work, community experience, favorite games, anime, movies, and social profiles. It uses a tabbed layout so visitors can explore each section without navigating through a long landing page.
+This website brings together my creative work, community experience, favorite games, anime, movies, and social profiles. It uses a tabbed layout so visitors can explore each section. Desktop layouts use a compact screen, while phones allow natural vertical scrolling to keep cards and text readable.
 
 Please call me **Kyle**, not Axity.
 
@@ -93,6 +93,7 @@ KyleAxity-Profile/
 ├── index.html               # Page layout, static content, and Spotify embed
 ├── style.css                # Layout, themes, and animations
 ├── typography.css           # Shared text sizes and final layout refinements
+├── mobile.css               # Phone layout, wrapping, and natural scrolling
 ├── script.js                # Navigation, themes, typing effect, avatar, and clock
 ├── stream-about.js          # Profile, PC setup, and FAQ content
 ├── games.json               # Game board lists
