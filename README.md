@@ -154,3 +154,7 @@ Character illustrations, game covers, anime artwork, movie posters, music, and p
 - [GitHub](https://github.com/kylebfernandez)
 
 More links are available in the website's **Socials** section.
+
+## Public visit counter
+
+The footer's eye badge displays a shared page-visit total, starting November 15, 2026. The production site increments once per page load, including refreshes; switching tabs does not add a visit. This is a page-view count, not a unique-person count, and does not include earlier traffic. Local previews only read the counter. The counter uses the public [Count API](https://countapi.mileshilliard.com/) without an account or secret key; it is an approximate public tally, not tamper-proof analytics. If the service is unavailable, the badge shows a dash rather than a made-up total.
